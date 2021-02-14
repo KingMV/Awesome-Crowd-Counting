@@ -102,6 +102,7 @@ Note that all unpublished arXiv papers are not included in [the leaderboard of p
 </details>
 
 ### 2021
+- <a name="MSCANet"></a> **[MSCANet]** Multi-Scale Context Aggregation Network with Attention-Guided for Crowd Counting(**ICSP2020**)[[paper](https://ieeexplore.ieee.org/document/9321067)][[code]](https://github.com/KingMV/MSCANet)
 - <a name="TopoCount"></a> **[TopoCount]**  Localization in the Crowd with Topological Constraints (**AAAI2021**) [[paper](https://arxiv.org/abs/2012.12482)][[code](https://github.com/ShahiraAbousamra/TopoCount)]![GitHub stars](https://img.shields.io/github/stars/ShahiraAbousamra/TopoCount.svg?logo=github&label=Stars)
 - <a name="CFANet"></a> **[CFANet]** Coarse- and Fine-grained Attention Network with Background-aware Loss for Crowd Density Map Estimation (**WACV**) [[paper](https://arxiv.org/abs/2011.03721)][[code](https://github.com/rongliangzi/MARUNet)]![GitHub stars](https://img.shields.io/github/stars/rongliangzi/MARUNet.svg?logo=github&label=Stars)
 - <a name="BSCC"></a> **[BSCC]** Understanding the impact of mistakes on background regions in crowd counting (**WACV**) [[paper](https://arxiv.org/abs/2003.13759)]
